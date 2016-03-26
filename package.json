@@ -1,0 +1,23 @@
+{
+  "name": "typescript_es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codecounselor/typescript_es6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codecounselor/typescript_es6/issues"
+  },
+  "homepage": "https://github.com/codecounselor/typescript_es6#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
