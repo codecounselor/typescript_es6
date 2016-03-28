@@ -1,0 +1,7 @@
+{
+  //https://github.com/Microsoft/TypeScript/wiki/Compiler-Options
+  "compilerOptions": {
+    "target": "es6",
+    "moduleResolution": "node"
+  }
+}
