@@ -2,9 +2,7 @@ export default class Candy {
 
   private weight: number;
 
-  constructor(public type: string, public color: string) {
-
-  }
+  constructor(public type: string, public color: string) { }
 
   public addWeight(weight) {
     this.weight = weight;
@@ -14,4 +12,5 @@ export default class Candy {
   public getWeight(){
     return this.weight;
   }
+  
 }
